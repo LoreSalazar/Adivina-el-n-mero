@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\loren\\source\\repos\\adivina_numero\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{960AF0FB-0F15-49EC-965C-F0F54FC01E84}|adivina_numero\\adivina_numero.vcxproj|C:\\Users\\loren\\source\\repos\\adivina_numero\\adivina_numero\\adivinar_numero.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{960AF0FB-0F15-49EC-965C-F0F54FC01E84}|adivina_numero\\adivina_numero.vcxproj|solutionrelative:adivina_numero\\adivinar_numero.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "adivinar_numero.cpp",
+              "DocumentMoniker": "C:\\Users\\loren\\source\\repos\\adivina_numero\\adivina_numero\\adivinar_numero.cpp",
+              "RelativeDocumentMoniker": "adivina_numero\\adivinar_numero.cpp",
+              "ToolTip": "C:\\Users\\loren\\source\\repos\\adivina_numero\\adivina_numero\\adivinar_numero.cpp",
+              "RelativeToolTip": "adivina_numero\\adivinar_numero.cpp",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-15T22:18:40.893Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

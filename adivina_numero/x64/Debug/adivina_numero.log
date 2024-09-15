@@ -1,0 +1,3 @@
+﻿  adivinar_numero.cpp
+C:\Users\loren\source\repos\adivina_numero\adivina_numero\adivinar_numero.cpp(26,20): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+  adivina_numero.vcxproj -> C:\Users\loren\source\repos\adivina_numero\x64\Debug\adivina_numero.exe
